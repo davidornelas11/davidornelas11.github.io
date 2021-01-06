@@ -2626,6 +2626,10 @@ input, select, textarea {
 			.image.fit img {
 				width: 100%;
 			}
+			/* .image.fit.mainimage {
+				width: 80%;
+				/ first picture /
+			} */
 
 		.image.main {
 			display: block;
